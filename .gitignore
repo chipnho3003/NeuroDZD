@@ -1,0 +1,9 @@
+upload_data.py
+__pycache__/
+venv/
+*.pyc
+*.pth
+visualization/NeuroDZD_Viz/data/*.png
+visualization/NeuroDZD_Viz/data/*.csv
+.DS_Store
+*dataset*
